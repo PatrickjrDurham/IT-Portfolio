@@ -1,63 +1,63 @@
 # IT Portfolio – Sysadmin & Cyber Labs
 
-Bienvenue sur mon portfolio GitHub !
+Welcome to my GitHub portfolio!
 
-Je suis actuellement en **TSSR (Technicien Supérieur Systèmes et Réseaux)** et je poursuis une spécialisation en **cybersécurité** en autodidacte.
+I am currently studying for a **TSSR (Higher Technician in Systems and Networks)** certification and pursuing a specialization in **cybersecurity** through self-learning.
 
-Ce portfolio regroupe mes projets, labs et exercices pratiques en **administration système** et **cybersécurité**.  
-Il me permet de documenter mon apprentissage, mes expérimentations et ma progression technique.
+This portfolio gathers my projects, labs, and practical exercises in **system administration** and **cybersecurity**.  
+It allows me to document my learning process, experiments, and technical progression.
 
 ---
 
-## Ce que vous trouverez ici
+## What You Will Find Here
 
 ### Sysadmin Labs
-Projets liés à l’infrastructure et à l’administration Windows :
+Projects related to infrastructure and Windows administration:
 
-- **SCCM Lab** – Installation, configuration et déploiement de clients  
-- **Active Directory Lab** – Gestion de domaine, GPO et comptes utilisateurs  
-- **PowerShell Scripts** – Automatisation et optimisation de tâches administratives  
+- **SCCM Lab** – Installation, configuration, and client deployment  
+- **Active Directory Lab** – Domain management, GPO configuration, and user administration  
+- **PowerShell Scripts** – Automation and optimization of administrative tasks  
 
-Chaque lab détaille :
-- Les étapes réalisées  
-- Les problèmes rencontrés et leurs solutions  
-- Les axes d’amélioration identifiés  
+Each lab includes:
+- The steps performed  
+- Issues encountered and how they were resolved  
+- Identified areas for improvement  
 
 ### Cyber Labs
-Exercices et challenges orientés cybersécurité :
+Cybersecurity-focused exercises and challenges:
 
-- Pratique sur **Root-Me** et **TryHackMe**  
-- Tests de vulnérabilités en environnement contrôlé  
-- Sécurisation de systèmes et audits de configuration  
+- Practice on **Root-Me** and **TryHackMe**  
+- Vulnerability testing in controlled environments  
+- System hardening and configuration audits  
 
 ---
 
-## Compétences démontrées
+## Demonstrated Skills
 
-- Administration Windows Server & Active Directory  
+- Windows Server & Active Directory administration  
 - SCCM / MECM  
-- PowerShell & automatisation  
-- Sécurité des systèmes  
-- Analyse et résolution de problèmes  
-- Documentation technique structurée  
+- PowerShell scripting & automation  
+- System security fundamentals  
+- Problem analysis and troubleshooting  
+- Structured technical documentation  
 
 ---
 
-## Objectif de ce portfolio
+## Portfolio Objective
 
-- Montrer ma progression technique  
-- Démontrer ma capacité d’analyse et de résolution de problèmes  
-- Adopter une approche critique sur mes projets  
-- Construire une base solide pour évoluer vers un poste en **cybersécurité**
+- Showcase my technical progression  
+- Demonstrate my problem-solving approach  
+- Maintain a critical mindset toward my projects  
+- Build a solid foundation to transition into a **cybersecurity role**
 
 ---
 
 ## Contact
 
-- LinkedIn : [Patrick Durham](https://www.linkedin.com/in/patrick-durham-52a571289/)  
-- Email : pjdurhamb@gmail.com  
+- LinkedIn: [Patrick Durham](https://www.linkedin.com/in/patrick-durham-52a571289/)  
+- Email: pjdurhamb@gmail.com  
 
 ---
 
-Merci de votre visite.  
-N’hésitez pas à explorer les différents labs pour découvrir mon travail.
+Thank you for visiting.  
+Feel free to explore the different labs to discover my work and learning journey.
