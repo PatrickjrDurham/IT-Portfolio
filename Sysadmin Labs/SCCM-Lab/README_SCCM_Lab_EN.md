@@ -147,6 +147,7 @@ MCM_Configmgr_2403.exe → Extract → splash.exe → Install
 - The ODBC 18.6.1.1 bug on Windows Server 2025 cost me significant time: the setup crashes with no meaningful error message
 - The SCCM VM is resource-hungry (12 GB RAM minimum) — hard to run alongside other VMs on a local setup
 - ADSI Edit is stressful: one wrong click on the DC and you risk taking down the whole AD
+- There isn't a lot of guide online that is up to date with recents versions - So you have to figure out most of it 
 
 ###  What I would improve or do differently
 - Automate repetitive steps (AD account creation, firewall rules) with **PowerShell**
@@ -161,6 +162,7 @@ MCM_Configmgr_2403.exe → Extract → splash.exe → Install
 ```
 sccm-lab/
 ├── README.md                    ← this file
+├── docs/
 └── docs/
     └── Sccm_Install_Doc_EN.docx ← full documentation with screenshots
 ```
