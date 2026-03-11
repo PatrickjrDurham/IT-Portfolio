@@ -15,8 +15,6 @@ It allows me to document my learning process, experiments, and technical progres
 Projects related to infrastructure and Windows administration:
 
 - **SCCM Lab** – Installation, configuration, and client deployment  
-- **Active Directory Lab** – Domain management, GPO configuration, and user administration  
-- **PowerShell Scripts** – Automation and optimization of administrative tasks  
 
 Each lab includes:
 - The steps performed  
