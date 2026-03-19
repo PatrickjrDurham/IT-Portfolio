@@ -8,13 +8,13 @@ All commits must be written in **English**.
 ## Commit Format
 
 This project follows the [Conventional Commits](https://www.conventionalcommits.org/) specification.
-
+ 
 ```
 <type>(<scope>): <short description>
 ```
 
 - **type** — nature of the change (see table below)
-- **scope** — lab or section affected, in parentheses *(optional but recommended)*
+- **scope** — lab or section affected, in parentheses 
 - **description** — short summary, imperative mood, lowercase, no period at the end
 
 **Examples:**
